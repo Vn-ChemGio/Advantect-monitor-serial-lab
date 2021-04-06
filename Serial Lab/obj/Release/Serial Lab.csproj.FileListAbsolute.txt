@@ -1,0 +1,15 @@
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\bin\Release\Serial Lab.exe.config
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\bin\Release\Serial Lab.exe.manifest
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\bin\Release\Serial Lab.application
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\bin\Release\Serial Lab.exe
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\bin\Release\Serial Lab.pdb
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Release\Serial Lab.csprojAssemblyReference.cache
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Release\Seriallab.AboutBox1.resources
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Release\Seriallab.MainForm.resources
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Release\Seriallab.Properties.Resources.resources
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Release\Serial Lab.csproj.GenerateResource.cache
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Release\Serial Lab.csproj.CoreCompileInputs.cache
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Release\Serial Lab.exe.manifest
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Release\Serial Lab.application
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Release\Serial Lab.exe
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Release\Serial Lab.pdb

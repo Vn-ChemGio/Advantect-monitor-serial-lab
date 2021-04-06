@@ -1,0 +1,30 @@
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Debug\Seriallab.AboutBox1.resources
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Debug\Seriallab.MainForm.resources
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Debug\Seriallab.Properties.Resources.resources
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.csproj.GenerateResource.cache
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\bin\Debug\Serial Lab.exe.config
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\bin\Debug\Serial Lab.exe.manifest
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\bin\Debug\Serial Lab.application
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\bin\Debug\Serial Lab.exe
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\bin\Debug\Serial Lab.pdb
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.csproj.CoreCompileInputs.cache
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.exe.manifest
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.application
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.exe
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.pdb
+C:\Users\mrtie\Downloads\Serial-Lab-master\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.csprojAssemblyReference.cache
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\bin\Debug\Serial Lab.exe.config
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\bin\Debug\Serial Lab.exe.manifest
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\bin\Debug\Serial Lab.application
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\bin\Debug\Serial Lab.exe
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\bin\Debug\Serial Lab.pdb
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.csprojAssemblyReference.cache
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\obj\Debug\Seriallab.AboutBox1.resources
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\obj\Debug\Seriallab.MainForm.resources
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\obj\Debug\Seriallab.Properties.Resources.resources
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.csproj.GenerateResource.cache
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.csproj.CoreCompileInputs.cache
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.exe.manifest
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.application
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.exe
+C:\Users\mrtie\Downloads\Serial-Lab-master - Advantech\Serial-Lab-master\Serial Lab\obj\Debug\Serial Lab.pdb

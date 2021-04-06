@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Serial Lab.exe" version="1.0.0.4" publicKeyToken="22941f5e74d26402" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Serial Lab" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Serial Lab.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Serial Lab.exe" size="1167328">
+      <assemblyIdentity name="Serial Lab" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>d8WjWEq/3kX4dXMNmG80QhyAY0o4UwGoGn24ryzl0Fs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="icon.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>f8jdcljOhrtayCtvsMENZ/R5xhjT97PzFIdALtsMQiQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Serial Lab.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-6VLAPN4\mrtie" issuerKeyHash="0dc3f32128e5cc21b61aa6ddc4abf2748e7478ca" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>JnKT3Q0o4a0dfkH6q9kdav2WdiLUvDbFjCmwyTtGrQs=</DigestValue></Reference></SignedInfo><SignatureValue>Zq4TIfhmBvEyaAiUU0osQPurnvmAcmFmv6NJFgLF4HDPK+SWjGw+9rykqBhaLSLsQ8S6faD0s22MyLGPm2GbsdiNCvr70qNgHaH5srAu6BINGiEJDSkeV7W1ndoo43Sdz+342USm2O1uDoWHTBPvmDgBl22kfz887Orp0XtG8NA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uu7gd1FBcyeMRC7xXPbEVQwteWrsloSUgOUSdXnngdclOX53OuogvqsoRkJ6n7HpdBpxGk2d7dV0lBYHwO15KQgO0hM+h3Yd9Iicn+d3wCRMwEpVTYTyzAUXcA6ldgtW0MyM4aUgzD3y+iRtftFGtkBny4UhgpdJHseSRRO0wMk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0bad463bc9b0298cc536bcd4227696fd6a1dd9abfa417e1dade1280ddd937226" Description="" Url=""><as:assemblyIdentity name="Serial Lab.exe" version="1.0.0.4" publicKeyToken="22941f5e74d26402" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-6VLAPN4\mrtie</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>dDHtzox6pFW6UdAwojAsBDCJ4n9OOLwpH5FMWvf/LuA=</DigestValue></Reference></SignedInfo><SignatureValue>Ka6TPxFHAO28rLpJQcJICwSdaGKBeyNi1viOXE2z9eHr8x4kQ1JcKS+3mZZNN3Cj6OgMGd6rLS+2M1FlyczxeOr7XsE78CoszvSRl6xwjei7BDkmMWxjz6V+YgdpCDV+vVifr/2bHU5F4Ju3RTRrqr+3Ahz/1SfYf99Zf1xQnvo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uu7gd1FBcyeMRC7xXPbEVQwteWrsloSUgOUSdXnngdclOX53OuogvqsoRkJ6n7HpdBpxGk2d7dV0lBYHwO15KQgO0hM+h3Yd9Iicn+d3wCRMwEpVTYTyzAUXcA6ldgtW0MyM4aUgzD3y+iRtftFGtkBny4UhgpdJHseSRRO0wMk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQWoIij6jCNIZCZp5dz+F86jANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADYAVgBMAEEAUABOADQAXABtAHIAdABpAGUwHhcNMjAxMjE0MjM0MzAwWhcNMjExMjE1MDU0MzAwWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADYAVgBMAEEAUABOADQAXABtAHIAdABpAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALru4HdRQXMnjEQu8Vz2xFUMLXlq7JaElIDlEnV554HXJTl+dzrqIL6rKEZCep+x6XQacRpNne3VdJQWB8DteSkIDtITPod2HfSInJ/nd8AkTMBKVU2E8swFF3AOpXYLVtDMjOGlIMw98vokbX7RRrZAZ8uFIYKXSR7HkkUTtMDJAgMBAAEwDQYJKoZIhvcNAQELBQADgYEATWK2CpVs427JHaegMyBDai1yuKBrRIKAi43vCmmS1H4IS3N0I3CDH8YIZ08sm/tX2YI/DwnUYxBr85PQcdFzutZQoFh6VcvJcayHTr7Hs04Fvd7VwYE8YNNLMk04MyZfpm3lzu4l/ASsbBTm4P08h0sDyGnfEVEvp2Nes0MMn5Y=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
